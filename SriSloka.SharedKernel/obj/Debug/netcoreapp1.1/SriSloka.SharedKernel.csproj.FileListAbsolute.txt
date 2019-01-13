@@ -1,0 +1,9 @@
+G:\SriSloka_School\SriSloka.Web\SriSloka.SharedKernel\bin\Debug\netcoreapp1.1\SriSloka.SharedKernel.deps.json
+G:\SriSloka_School\SriSloka.Web\SriSloka.SharedKernel\bin\Debug\netcoreapp1.1\SriSloka.SharedKernel.dll
+G:\SriSloka_School\SriSloka.Web\SriSloka.SharedKernel\bin\Debug\netcoreapp1.1\SriSloka.SharedKernel.pdb
+G:\SriSloka_School\SriSloka.Web\SriSloka.SharedKernel\obj\Debug\netcoreapp1.1\SriSloka.SharedKernel.csproj.CoreCompileInputs.cache
+G:\SriSloka_School\SriSloka.Web\SriSloka.SharedKernel\obj\Debug\netcoreapp1.1\SriSloka.SharedKernel.AssemblyInfoInputs.cache
+G:\SriSloka_School\SriSloka.Web\SriSloka.SharedKernel\obj\Debug\netcoreapp1.1\SriSloka.SharedKernel.AssemblyInfo.cs
+G:\SriSloka_School\SriSloka.Web\SriSloka.SharedKernel\obj\Debug\netcoreapp1.1\SriSloka.SharedKernel.dll
+G:\SriSloka_School\SriSloka.Web\SriSloka.SharedKernel\obj\Debug\netcoreapp1.1\SriSloka.SharedKernel.pdb
+G:\SriSloka_School\SriSloka.Web\SriSloka.SharedKernel\obj\Debug\netcoreapp1.1\SriSloka.SharedKernel.csprojResolveAssemblyReference.cache

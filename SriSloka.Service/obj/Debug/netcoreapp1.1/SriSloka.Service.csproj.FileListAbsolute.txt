@@ -1,0 +1,16 @@
+G:\SriSloka_School\SriSloka.Web\SriSloka.Service\bin\Debug\netcoreapp1.1\SriSloka.Service.deps.json
+G:\SriSloka_School\SriSloka.Web\SriSloka.Service\bin\Debug\netcoreapp1.1\SriSloka.Service.dll
+G:\SriSloka_School\SriSloka.Web\SriSloka.Service\bin\Debug\netcoreapp1.1\SriSloka.Service.pdb
+G:\SriSloka_School\SriSloka.Web\SriSloka.Service\obj\Debug\netcoreapp1.1\SriSloka.Service.AssemblyInfo.cs
+G:\SriSloka_School\SriSloka.Web\SriSloka.Service\obj\Debug\netcoreapp1.1\SriSloka.Service.dll
+G:\SriSloka_School\SriSloka.Web\SriSloka.Service\obj\Debug\netcoreapp1.1\SriSloka.Service.pdb
+K:\SriSloka_School\SriSloka.Web\SriSloka.Service\bin\Debug\netcoreapp1.1\SriSloka.Service.deps.json
+K:\SriSloka_School\SriSloka.Web\SriSloka.Service\bin\Debug\netcoreapp1.1\SriSloka.Service.dll
+K:\SriSloka_School\SriSloka.Web\SriSloka.Service\bin\Debug\netcoreapp1.1\SriSloka.Service.pdb
+K:\SriSloka_School\SriSloka.Web\SriSloka.Service\obj\Debug\netcoreapp1.1\SriSloka.Service.AssemblyInfo.cs
+K:\SriSloka_School\SriSloka.Web\SriSloka.Service\obj\Debug\netcoreapp1.1\SriSloka.Service.dll
+K:\SriSloka_School\SriSloka.Web\SriSloka.Service\obj\Debug\netcoreapp1.1\SriSloka.Service.pdb
+K:\SriSloka_School\SriSloka.Web\SriSloka.Service\obj\Debug\netcoreapp1.1\SriSloka.Service.csprojResolveAssemblyReference.cache
+G:\SriSloka_School\SriSloka.Web\SriSloka.Service\obj\Debug\netcoreapp1.1\SriSloka.Service.csproj.CoreCompileInputs.cache
+G:\SriSloka_School\SriSloka.Web\SriSloka.Service\obj\Debug\netcoreapp1.1\SriSloka.Service.AssemblyInfoInputs.cache
+G:\SriSloka_School\SriSloka.Web\SriSloka.Service\obj\Debug\netcoreapp1.1\SriSloka.Service.csprojResolveAssemblyReference.cache

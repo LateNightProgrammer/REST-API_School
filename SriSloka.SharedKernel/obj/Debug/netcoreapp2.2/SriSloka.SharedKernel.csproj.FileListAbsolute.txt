@@ -1,0 +1,9 @@
+E:\Projects\SriSloka.Web\SriSloka.SharedKernel\bin\Debug\netcoreapp2.2\SriSloka.SharedKernel.deps.json
+E:\Projects\SriSloka.Web\SriSloka.SharedKernel\bin\Debug\netcoreapp2.2\SriSloka.SharedKernel.dll
+E:\Projects\SriSloka.Web\SriSloka.SharedKernel\bin\Debug\netcoreapp2.2\SriSloka.SharedKernel.pdb
+E:\Projects\SriSloka.Web\SriSloka.SharedKernel\obj\Debug\netcoreapp2.2\SriSloka.SharedKernel.csproj.CoreCompileInputs.cache
+E:\Projects\SriSloka.Web\SriSloka.SharedKernel\obj\Debug\netcoreapp2.2\SriSloka.SharedKernel.AssemblyInfoInputs.cache
+E:\Projects\SriSloka.Web\SriSloka.SharedKernel\obj\Debug\netcoreapp2.2\SriSloka.SharedKernel.AssemblyInfo.cs
+E:\Projects\SriSloka.Web\SriSloka.SharedKernel\obj\Debug\netcoreapp2.2\SriSloka.SharedKernel.dll
+E:\Projects\SriSloka.Web\SriSloka.SharedKernel\obj\Debug\netcoreapp2.2\SriSloka.SharedKernel.pdb
+E:\Projects\SriSloka.Web\SriSloka.SharedKernel\obj\Debug\netcoreapp2.2\SriSloka.SharedKernel.csprojAssemblyReference.cache

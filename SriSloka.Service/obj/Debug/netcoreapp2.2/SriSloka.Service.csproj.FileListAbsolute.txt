@@ -1,0 +1,9 @@
+E:\Projects\SriSloka.Web\SriSloka.Service\bin\Debug\netcoreapp2.2\SriSloka.Service.deps.json
+E:\Projects\SriSloka.Web\SriSloka.Service\bin\Debug\netcoreapp2.2\SriSloka.Service.dll
+E:\Projects\SriSloka.Web\SriSloka.Service\bin\Debug\netcoreapp2.2\SriSloka.Service.pdb
+E:\Projects\SriSloka.Web\SriSloka.Service\obj\Debug\netcoreapp2.2\SriSloka.Service.csproj.CoreCompileInputs.cache
+E:\Projects\SriSloka.Web\SriSloka.Service\obj\Debug\netcoreapp2.2\SriSloka.Service.AssemblyInfoInputs.cache
+E:\Projects\SriSloka.Web\SriSloka.Service\obj\Debug\netcoreapp2.2\SriSloka.Service.AssemblyInfo.cs
+E:\Projects\SriSloka.Web\SriSloka.Service\obj\Debug\netcoreapp2.2\SriSloka.Service.dll
+E:\Projects\SriSloka.Web\SriSloka.Service\obj\Debug\netcoreapp2.2\SriSloka.Service.pdb
+E:\Projects\SriSloka.Web\SriSloka.Service\obj\Debug\netcoreapp2.2\SriSloka.Service.csprojAssemblyReference.cache

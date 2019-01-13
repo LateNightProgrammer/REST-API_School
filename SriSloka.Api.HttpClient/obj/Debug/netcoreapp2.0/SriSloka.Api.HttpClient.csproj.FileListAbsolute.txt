@@ -1,0 +1,17 @@
+G:\SriSloka_School\SriSloka.Web\SriSloka.Api.HttpClient\bin\Debug\netcoreapp2.0\SriSloka.Api.HttpClient.deps.json
+G:\SriSloka_School\SriSloka.Web\SriSloka.Api.HttpClient\bin\Debug\netcoreapp2.0\SriSloka.Api.HttpClient.dll
+G:\SriSloka_School\SriSloka.Web\SriSloka.Api.HttpClient\bin\Debug\netcoreapp2.0\SriSloka.Api.HttpClient.pdb
+G:\SriSloka_School\SriSloka.Web\SriSloka.Api.HttpClient\obj\Debug\netcoreapp2.0\SriSloka.Api.HttpClient.csproj.CoreCompileInputs.cache
+G:\SriSloka_School\SriSloka.Web\SriSloka.Api.HttpClient\obj\Debug\netcoreapp2.0\SriSloka.Api.HttpClient.AssemblyInfoInputs.cache
+G:\SriSloka_School\SriSloka.Web\SriSloka.Api.HttpClient\obj\Debug\netcoreapp2.0\SriSloka.Api.HttpClient.AssemblyInfo.cs
+G:\SriSloka_School\SriSloka.Web\SriSloka.Api.HttpClient\obj\Debug\netcoreapp2.0\SriSloka.Api.HttpClient.dll
+G:\SriSloka_School\SriSloka.Web\SriSloka.Api.HttpClient\obj\Debug\netcoreapp2.0\SriSloka.Api.HttpClient.pdb
+G:\SriSloka_School\SriSloka.Web\SriSloka.Api.HttpClient\obj\Debug\netcoreapp2.0\SriSloka.Api.HttpClient.csprojResolveAssemblyReference.cache
+E:\Projects\SriSloka.Web\SriSloka.Api.HttpClient\bin\Debug\netcoreapp2.0\SriSloka.Api.HttpClient.deps.json
+E:\Projects\SriSloka.Web\SriSloka.Api.HttpClient\bin\Debug\netcoreapp2.0\SriSloka.Api.HttpClient.dll
+E:\Projects\SriSloka.Web\SriSloka.Api.HttpClient\bin\Debug\netcoreapp2.0\SriSloka.Api.HttpClient.pdb
+E:\Projects\SriSloka.Web\SriSloka.Api.HttpClient\obj\Debug\netcoreapp2.0\SriSloka.Api.HttpClient.csproj.CoreCompileInputs.cache
+E:\Projects\SriSloka.Web\SriSloka.Api.HttpClient\obj\Debug\netcoreapp2.0\SriSloka.Api.HttpClient.AssemblyInfoInputs.cache
+E:\Projects\SriSloka.Web\SriSloka.Api.HttpClient\obj\Debug\netcoreapp2.0\SriSloka.Api.HttpClient.AssemblyInfo.cs
+E:\Projects\SriSloka.Web\SriSloka.Api.HttpClient\obj\Debug\netcoreapp2.0\SriSloka.Api.HttpClient.dll
+E:\Projects\SriSloka.Web\SriSloka.Api.HttpClient\obj\Debug\netcoreapp2.0\SriSloka.Api.HttpClient.pdb

@@ -1,0 +1,16 @@
+E:\Projects\SriSloka.Web\SriSloka.ViewModel\bin\Debug\netcoreapp2.2\SriSloka.ViewModel.deps.json
+E:\Projects\SriSloka.Web\SriSloka.ViewModel\bin\Debug\netcoreapp2.2\SriSloka.ViewModel.dll
+E:\Projects\SriSloka.Web\SriSloka.ViewModel\bin\Debug\netcoreapp2.2\SriSloka.ViewModel.pdb
+E:\Projects\SriSloka.Web\SriSloka.ViewModel\bin\Debug\netcoreapp2.2\SriSloka.Model.dll
+E:\Projects\SriSloka.Web\SriSloka.ViewModel\bin\Debug\netcoreapp2.2\SriSloka.SharedKernel.dll
+E:\Projects\SriSloka.Web\SriSloka.ViewModel\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Identity.Stores.dll
+E:\Projects\SriSloka.Web\SriSloka.ViewModel\bin\Debug\netcoreapp2.2\SriSloka.Model.pdb
+E:\Projects\SriSloka.Web\SriSloka.ViewModel\bin\Debug\netcoreapp2.2\SriSloka.SharedKernel.pdb
+E:\Projects\SriSloka.Web\SriSloka.ViewModel\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Identity.Stores.xml
+E:\Projects\SriSloka.Web\SriSloka.ViewModel\obj\Debug\netcoreapp2.2\SriSloka.ViewModel.csprojAssemblyReference.cache
+E:\Projects\SriSloka.Web\SriSloka.ViewModel\obj\Debug\netcoreapp2.2\SriSloka.ViewModel.csproj.CoreCompileInputs.cache
+E:\Projects\SriSloka.Web\SriSloka.ViewModel\obj\Debug\netcoreapp2.2\SriSloka.ViewModel.AssemblyInfoInputs.cache
+E:\Projects\SriSloka.Web\SriSloka.ViewModel\obj\Debug\netcoreapp2.2\SriSloka.ViewModel.AssemblyInfo.cs
+E:\Projects\SriSloka.Web\SriSloka.ViewModel\obj\Debug\netcoreapp2.2\SriSloka.ViewModel.csproj.CopyComplete
+E:\Projects\SriSloka.Web\SriSloka.ViewModel\obj\Debug\netcoreapp2.2\SriSloka.ViewModel.dll
+E:\Projects\SriSloka.Web\SriSloka.ViewModel\obj\Debug\netcoreapp2.2\SriSloka.ViewModel.pdb

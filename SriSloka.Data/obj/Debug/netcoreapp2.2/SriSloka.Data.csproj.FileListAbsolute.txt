@@ -1,0 +1,16 @@
+E:\Projects\SriSloka.Web\SriSloka.Data\bin\Debug\netcoreapp2.2\SriSloka.Data.deps.json
+E:\Projects\SriSloka.Web\SriSloka.Data\bin\Debug\netcoreapp2.2\SriSloka.Data.runtimeconfig.json
+E:\Projects\SriSloka.Web\SriSloka.Data\bin\Debug\netcoreapp2.2\SriSloka.Data.runtimeconfig.dev.json
+E:\Projects\SriSloka.Web\SriSloka.Data\bin\Debug\netcoreapp2.2\SriSloka.Data.dll
+E:\Projects\SriSloka.Web\SriSloka.Data\bin\Debug\netcoreapp2.2\SriSloka.Data.pdb
+E:\Projects\SriSloka.Web\SriSloka.Data\bin\Debug\netcoreapp2.2\SriSloka.Model.dll
+E:\Projects\SriSloka.Web\SriSloka.Data\bin\Debug\netcoreapp2.2\SriSloka.SharedKernel.dll
+E:\Projects\SriSloka.Web\SriSloka.Data\bin\Debug\netcoreapp2.2\SriSloka.Model.pdb
+E:\Projects\SriSloka.Web\SriSloka.Data\bin\Debug\netcoreapp2.2\SriSloka.SharedKernel.pdb
+E:\Projects\SriSloka.Web\SriSloka.Data\obj\Debug\netcoreapp2.2\SriSloka.Data.csprojAssemblyReference.cache
+E:\Projects\SriSloka.Web\SriSloka.Data\obj\Debug\netcoreapp2.2\SriSloka.Data.csproj.CoreCompileInputs.cache
+E:\Projects\SriSloka.Web\SriSloka.Data\obj\Debug\netcoreapp2.2\SriSloka.Data.AssemblyInfoInputs.cache
+E:\Projects\SriSloka.Web\SriSloka.Data\obj\Debug\netcoreapp2.2\SriSloka.Data.AssemblyInfo.cs
+E:\Projects\SriSloka.Web\SriSloka.Data\obj\Debug\netcoreapp2.2\SriSloka.Data.csproj.CopyComplete
+E:\Projects\SriSloka.Web\SriSloka.Data\obj\Debug\netcoreapp2.2\SriSloka.Data.dll
+E:\Projects\SriSloka.Web\SriSloka.Data\obj\Debug\netcoreapp2.2\SriSloka.Data.pdb

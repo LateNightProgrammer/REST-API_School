@@ -1,0 +1,13 @@
+G:\SriSloka_School\SriSloka.Web\SriSloka.IntegrationTests\bin\Debug\netcoreapp1.1\SriSloka.IntegrationTests.deps.json
+G:\SriSloka_School\SriSloka.Web\SriSloka.IntegrationTests\bin\Debug\netcoreapp1.1\SriSloka.IntegrationTests.dll
+G:\SriSloka_School\SriSloka.Web\SriSloka.IntegrationTests\bin\Debug\netcoreapp1.1\SriSloka.IntegrationTests.pdb
+G:\SriSloka_School\SriSloka.Web\SriSloka.IntegrationTests\bin\Debug\netcoreapp1.1\SriSloka.Data.dll
+G:\SriSloka_School\SriSloka.Web\SriSloka.IntegrationTests\bin\Debug\netcoreapp1.1\SriSloka.Model.dll
+G:\SriSloka_School\SriSloka.Web\SriSloka.IntegrationTests\bin\Debug\netcoreapp1.1\SriSloka.Service.dll
+G:\SriSloka_School\SriSloka.Web\SriSloka.IntegrationTests\bin\Debug\netcoreapp1.1\SriSloka.Data.pdb
+G:\SriSloka_School\SriSloka.Web\SriSloka.IntegrationTests\bin\Debug\netcoreapp1.1\SriSloka.Model.pdb
+G:\SriSloka_School\SriSloka.Web\SriSloka.IntegrationTests\bin\Debug\netcoreapp1.1\SriSloka.Service.pdb
+G:\SriSloka_School\SriSloka.Web\SriSloka.IntegrationTests\obj\Debug\netcoreapp1.1\SriSloka.IntegrationTests.csprojResolveAssemblyReference.cache
+G:\SriSloka_School\SriSloka.Web\SriSloka.IntegrationTests\obj\Debug\netcoreapp1.1\SriSloka.IntegrationTests.AssemblyInfo.cs
+G:\SriSloka_School\SriSloka.Web\SriSloka.IntegrationTests\obj\Debug\netcoreapp1.1\SriSloka.IntegrationTests.dll
+G:\SriSloka_School\SriSloka.Web\SriSloka.IntegrationTests\obj\Debug\netcoreapp1.1\SriSloka.IntegrationTests.pdb

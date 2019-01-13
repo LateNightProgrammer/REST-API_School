@@ -1,0 +1,4 @@
+E:\Projects\SriSloka.Web\SriSloka.Api\obj\Debug\netcoreapp2.0\SriSloka.Api.csprojAssemblyReference.cache
+E:\Projects\SriSloka.Web\SriSloka.Api\obj\Debug\netcoreapp2.0\SriSloka.Api.csproj.CoreCompileInputs.cache
+E:\Projects\SriSloka.Web\SriSloka.Api\obj\Debug\netcoreapp2.0\SriSloka.Api.AssemblyInfoInputs.cache
+E:\Projects\SriSloka.Web\SriSloka.Api\obj\Debug\netcoreapp2.0\SriSloka.Api.AssemblyInfo.cs

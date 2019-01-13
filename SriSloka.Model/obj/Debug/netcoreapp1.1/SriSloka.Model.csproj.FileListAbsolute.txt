@@ -1,0 +1,10 @@
+K:\SriSloka_School\SriSloka.Web\SriSloka.Model\bin\Debug\netcoreapp1.1\SriSloka.Model.deps.json
+K:\SriSloka_School\SriSloka.Web\SriSloka.Model\bin\Debug\netcoreapp1.1\SriSloka.Model.dll
+K:\SriSloka_School\SriSloka.Web\SriSloka.Model\bin\Debug\netcoreapp1.1\SriSloka.Model.pdb
+K:\SriSloka_School\SriSloka.Web\SriSloka.Model\obj\Debug\netcoreapp1.1\SriSloka.Model.AssemblyInfo.cs
+K:\SriSloka_School\SriSloka.Web\SriSloka.Model\obj\Debug\netcoreapp1.1\SriSloka.Model.dll
+K:\SriSloka_School\SriSloka.Web\SriSloka.Model\obj\Debug\netcoreapp1.1\SriSloka.Model.pdb
+G:\SriSloka_School\SriSloka.Web\SriSloka.Model\obj\Debug\netcoreapp1.1\SriSloka.Model.csprojResolveAssemblyReference.cache
+G:\SriSloka_School\SriSloka.Web\SriSloka.Model\obj\Debug\netcoreapp1.1\SriSloka.Model.csproj.CoreCompileInputs.cache
+G:\SriSloka_School\SriSloka.Web\SriSloka.Model\obj\Debug\netcoreapp1.1\SriSloka.Model.AssemblyInfoInputs.cache
+G:\SriSloka_School\SriSloka.Web\SriSloka.Model\obj\Debug\netcoreapp1.1\SriSloka.Model.AssemblyInfo.cs
